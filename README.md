@@ -28,15 +28,15 @@
 </br><b>✦ TKDDos [ -p ]: port default 80
 </br><b>✦ TKDDos [-t ]: turbo default 135 \033[0m
 </hr>
-</br><b><h2>✦TKDDos Two USE - Python 3 Python 3.5✦ </h2></b>
+</br><b><h2>✦TKDDos Two USE - Python 2 - Python 2 x✦ </h2></b>
 </br><b>✦ Windows: TKDDosTwo.py http://www.siteurl.com/ </b>
 </br><b>✦ Linux: python TKDDosTwo.py http://www.siteurl.com/ </b>
 </hr>
-</br><b><h2>✦TKDDos Three USE - Python 3 Python 3.5✦ </h2></b>
+</br><b><h2>✦TKDDos Three USE -  Python 2 - Python 2 x✦ </h2></b>
 </br><b>✦ Windows: TKDDosThree.py http://www.siteurl.com/ </b>
 </br><b>✦ Linux: python TKDDosThree.py http://www.siteurl.com/ </b>
 </hr>
-</br><b><h2>✦TKDDos Four USE - Python 3 Python 3.5✦ </h2></b>
+</br><b><h2>✦TKDDos Four USE - Python 2 - Python 2 x✦ </h2></b>
 </br><b>✦    ================================================ </b>
 </br><b>✦    Usage: python TKDDosFour.py http://www.example.com/ </b>
  </br><b>✦   ================================================ </b>
