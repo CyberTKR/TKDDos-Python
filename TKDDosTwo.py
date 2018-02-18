@@ -269,8 +269,8 @@ def buildblock(size):
 def usage():
 	print '---------------------------------------------------'
 	print 'to attack:'
-        print '#Windows: TKDDos.py http://www.exemplo.com.br/'
-        print '#Linux: python TKDDos.py http://www.exemplo.com.br/'
+        print '#Windows: TKDDosTwo.py http://www.siteurl.com/'
+        print '#Linux: python TKDDosTwo.py http://www.siteurl.com/'
 	print "\a"
 print \
 """                          
@@ -286,7 +286,7 @@ $$ |  $$\$$ |  $$ $$ |  $$ $$   ____$$ |               $$ |  $$ |\$$\
          \$$$$$$  |                                                    
           \______/   
 											#Attack good
-											#TKDDos-Python
+											#TKDDosTwo-Python
 """
 print '---------------------------------------------------'
 
