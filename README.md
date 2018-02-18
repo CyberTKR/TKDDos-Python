@@ -18,7 +18,7 @@
 </br>
 <h1>.̌ͨ̔̄.̛̎͌͂ͬ͊ͣ͗̑̈ͮͬͤ.̏̿̉̒ͭ̾̔́͛̀̇̓̃.͢.ͪ̉̓ͯ͌͐̎̈̌̐̾̒͒ͩ̚͜.͘.̇̀ͬ.ͬ̑ͩ̅̑́͆̑̕.ͤ̄̽̓̔͗ͦ̂͋̒ͬ.ͧ̊̇ͮ̊͛͑̂͗.̷̡͝.̾̓̎̽ͣͨ̿͌͆̚.̀́.̊͂̍͆͂.̴̍̇.͐̚.̸̾͊̈̄ͤ̓̄ͬ̅ͫͭ̚.͐͟.̍̎͆̏̚.̴̡̢́͋ͨ̿.̏ͣ̉͠..͗ͦ͂̐͐́͋ͬͯ҉҉͠.҉̡͜.ͬ͌̃̓̑͐̃̚.̸.̷̀͐̆̀͡...͐̓ͮͨ̉̀́.̡̨ͩͫ͊ͫͪ̄ͪͯ̈͟.̶ͮ̓̇̎ͦͩ̊ͦ͐ͥ̂̉͢͡.͒̃̐̚͜.̡.ͫ͊ͣ̿̿͆͆̇͊̿́͞͞.ͩ͑̑͒̓̐̎̉̅̓ͧ̏..̴̡̌̋ͯ͆ͪ̓̏̌ͥ͟..͛̈ͤͫͣ͊̋̈́̽̾ͮ̈́͌.ͤ̌ͪͨ̋̀́.̆͘.͡.̆ͭ̀͐͌͋̊ͣ̅͒ͩͦͬ̏.̌͑ͪ̐ͩͭ҉͝.̑̀̅̐̓̃̕.͘͢.̎̔͌ͫ̀͛ͪ̾.̛͋̿̑͊͛̒̂̌ͥ̃̈́̂͋ͤ.̷͛͐͑.̆̅̓̐̑̍̊ͨ̎ͦ̈́͆..ͮ̋́̋̀͊̊.̷̡̛̆̏̽̎̇̌̎ͮ͋ͬ̑̐̆.̌.ͬͨͩͩ̅̄̚..ͥͩ̔̐̓ͣ́͘͢.̡̢̀ͩ̂ͯ͊́͂̅́ͥͮ̃͑ͥ.ͤ̔͒ͦͮ҉.̵̸́͋ͮ̋̋̔͝.̡̢̑̅ͭͭ̑̈ͯ̉ͤ́ͣ̅ͮ̏ͪ͟.̸̈ͤ͜͡.̅̇́̌.̷͑͋̔̽ͬ̃́͋̉̀̅.̉̎̌ͥ̆ͭ͒ͪ͞.̎ͤ̄̃̌ͭ̅̀̕͡.͋͐ͧ̒̄ͪ͗̉̈̇̂̒̅̆͋.ͬͫ͑͂̈́́̂͊̒.̋͛ͪ͒̒̉̎̾̚.̛ͩͪ̉̉̆̏̎̽.͌̈́̓ͮ̓̀̚</h1>
 </br><b>✦    Continue To Follow Cyber-TK </b>
-</br><b><h2>✦TKDDos One - Python 3 Python 3.5 </h2></b>
+</br><b><h2>✦TKDDos One USE - Python 3 Python 3.5✦ </h2></b>
 </br><b>✦ 033[92m	TKDDos Dos Script v.1 https://github.com/CyberTKR/TKDDos-Python
 </br><b>✦ It is the end user's responsibility to obey all applicable laws.
 </br><b>✦ It is just for server testing script. Your ip is visible. \n
@@ -27,22 +27,19 @@
 </br><b>✦ TKDDos [ -s ]: server ip
 </br><b>✦ TKDDos [ -p ]: port default 80
 </br><b>✦ TKDDos [-t ]: turbo default 135 \033[0m
-</br><b>✦ $$$$$$\          $$\                               $$$$$$$$\$$\   $$\ </b>
-</br><b>✦$$  __$$\         $$ |                              \__$$  __$$ | $$  |</b>
-</br><b>✦$$ /  \__$$\   $$\$$$$$$$\  $$$$$$\  $$$$$$\           $$ |  $$ |$$  / </b>
-</br><b>✦$$ |     $$ |  $$ $$  __$$\$$  __$$\$$  __$$\          $$ |  $$$$$  /  </b>
-</br><b>✦$$ |     $$ |  $$ $$ |  $$ $$$$$$$$ $$ |  \__|         $$ |  $$  $$<   </b>
-</br><b>✦$$ |  $$\$$ |  $$ $$ |  $$ $$   ____$$ |               $$ |  $$ |\$$\  </b>
-</br><b>✦\$$$$$$  \$$$$$$$ $$$$$$$  \$$$$$$$\$$ |               $$ |  $$ | \$$\ </b>
-</br><b>✦ \______/ \____$$ \_______/ \_______\__|               \__|  \__|  \__|</b>
-</br><b>✦         $$\   $$ |                                                    </b>
-</br><b>✦         \$$$$$$  |                                                    </b>
-</br><b>✦          \______/ 							</b>
 </hr>
-</br><b>✦   Bot İs Running </b>
-</br><b>✦    http://github.com/CyberTKR/CyberJS.git </b>
-</br><b>✦   cd CyberJS & npm install </b>
-</br><b>✦   npm start </b>
+</br><b><h2>✦TKDDos Two USE - Python 3 Python 3.5✦ </h2></b>
+</br><b>✦ Windows: TKDDosTwo.py http://www.siteurl.com/ </b>
+</br><b>✦ Linux: python TKDDosTwo.py http://www.siteurl.com/ </b>
+</hr>
+</br><b><h2>✦TKDDos Three USE - Python 3 Python 3.5✦ </h2></b>
+</br><b>✦ Windows: TKDDosThree.py http://www.siteurl.com/ </b>
+</br><b>✦ Linux: python TKDDosThree.py http://www.siteurl.com/ </b>
+</hr>
+</br><b><h2>✦TKDDos Four USE - Python 3 Python 3.5✦ </h2></b>
+</br><b>✦    ================================================ </b>
+</br><b>✦    Usage: python TKDDosFour.py http://www.example.com/ </b>
+ </br><b>✦   ================================================ </b>
 <b><hr/></b>
 <h2><b> Official Account's </b></h2>
 </br><b>✦  Line Contact ✔⇩ </b>
