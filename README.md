@@ -19,27 +19,33 @@
 <h1>.̌ͨ̔̄.̛̎͌͂ͬ͊ͣ͗̑̈ͮͬͤ.̏̿̉̒ͭ̾̔́͛̀̇̓̃.͢.ͪ̉̓ͯ͌͐̎̈̌̐̾̒͒ͩ̚͜.͘.̇̀ͬ.ͬ̑ͩ̅̑́͆̑̕.ͤ̄̽̓̔͗ͦ̂͋̒ͬ.ͧ̊̇ͮ̊͛͑̂͗.̷̡͝.̾̓̎̽ͣͨ̿͌͆̚.̀́.̊͂̍͆͂.̴̍̇.͐̚.̸̾͊̈̄ͤ̓̄ͬ̅ͫͭ̚.͐͟.̍̎͆̏̚.̴̡̢́͋ͨ̿.̏ͣ̉͠..͗ͦ͂̐͐́͋ͬͯ҉҉͠.҉̡͜.ͬ͌̃̓̑͐̃̚.̸.̷̀͐̆̀͡...͐̓ͮͨ̉̀́.̡̨ͩͫ͊ͫͪ̄ͪͯ̈͟.̶ͮ̓̇̎ͦͩ̊ͦ͐ͥ̂̉͢͡.͒̃̐̚͜.̡.ͫ͊ͣ̿̿͆͆̇͊̿́͞͞.ͩ͑̑͒̓̐̎̉̅̓ͧ̏..̴̡̌̋ͯ͆ͪ̓̏̌ͥ͟..͛̈ͤͫͣ͊̋̈́̽̾ͮ̈́͌.ͤ̌ͪͨ̋̀́.̆͘.͡.̆ͭ̀͐͌͋̊ͣ̅͒ͩͦͬ̏.̌͑ͪ̐ͩͭ҉͝.̑̀̅̐̓̃̕.͘͢.̎̔͌ͫ̀͛ͪ̾.̛͋̿̑͊͛̒̂̌ͥ̃̈́̂͋ͤ.̷͛͐͑.̆̅̓̐̑̍̊ͨ̎ͦ̈́͆..ͮ̋́̋̀͊̊.̷̡̛̆̏̽̎̇̌̎ͮ͋ͬ̑̐̆.̌.ͬͨͩͩ̅̄̚..ͥͩ̔̐̓ͣ́͘͢.̡̢̀ͩ̂ͯ͊́͂̅́ͥͮ̃͑ͥ.ͤ̔͒ͦͮ҉.̵̸́͋ͮ̋̋̔͝.̡̢̑̅ͭͭ̑̈ͯ̉ͤ́ͣ̅ͮ̏ͪ͟.̸̈ͤ͜͡.̅̇́̌.̷͑͋̔̽ͬ̃́͋̉̀̅.̉̎̌ͥ̆ͭ͒ͪ͞.̎ͤ̄̃̌ͭ̅̀̕͡.͋͐ͧ̒̄ͪ͗̉̈̇̂̒̅̆͋.ͬͫ͑͂̈́́̂͊̒.̋͛ͪ͒̒̉̎̾̚.̛ͩͪ̉̉̆̏̎̽.͌̈́̓ͮ̓̀̚</h1>
 </br><b>✦    Continue To Follow Cyber-TK </b>
 </br><b><h2>✦TKDDos One USE - Python 3 Python 3.5✦ </h2></b>
-</br><b>✦ 033[92m	TKDDos Dos Script v.1 https://github.com/CyberTKR/TKDDos-Python
-</br><b>✦ It is the end user's responsibility to obey all applicable laws.
-</br><b>✦ It is just for server testing script. Your ip is visible. \n
-</br><b>✦ usage : python3 TKDDos.py [-s] [-p] [-t]
-</br><b>✦ TKDDos [ -h ]: help
-</br><b>✦ TKDDos [ -s ]: server ip
-</br><b>✦ TKDDos [ -p ]: port default 80
-</br><b>✦ TKDDos [-t ]: turbo default 135 \033[0m
+</br><b>✦    ============================================ </b>
+</br><b>✦ 033[92m	TKDDos Dos Script v.1 https://github.com/CyberTKR/TKDDos-Python </b>
+</br><b>✦ It is the end user's responsibility to obey all applicable laws. </b>
+</br><b>✦ It is just for server testing script. Your ip is visible. </b>
+</br><b>✦ usage : python3 TKDDos.py [-s] [-p] [-t] </b>
+</br><b>✦ TKDDos [ -h ]: help </b>
+</br><b>✦ TKDDos [ -s ]: server ip </b>
+</br><b>✦ TKDDos [ -p ]: port default 80 </b>
+</br><b>✦ TKDDos [-t ]: turbo default 135 \033[0m </b>
+</br><b>✦    ============================================ </b>
 </hr>
 </br><b><h2>✦TKDDos Two USE - Python 2 - Python 2 x✦ </h2></b>
+</br><b>✦    ============================================ </b>
 </br><b>✦ Windows: TKDDosTwo.py http://www.siteurl.com/ </b>
 </br><b>✦ Linux: python TKDDosTwo.py http://www.siteurl.com/ </b>
+</br><b>✦    ============================================ </b>
 </hr>
 </br><b><h2>✦TKDDos Three USE -  Python 2 - Python 2 x✦ </h2></b>
+</br><b>✦    ============================================ </b>
 </br><b>✦ Windows: TKDDosThree.py http://www.siteurl.com/ </b>
 </br><b>✦ Linux: python TKDDosThree.py http://www.siteurl.com/ </b>
+</br><b>✦    ============================================ </b>
 </hr>
 </br><b><h2>✦TKDDos Four USE - Python 2 - Python 2 x✦ </h2></b>
-</br><b>✦    ================================================ </b>
+</br><b>✦    ============================================ </b>
 </br><b>✦    Usage: python TKDDosFour.py http://www.example.com/ </b>
- </br><b>✦   ================================================ </b>
+ </br><b>✦   ============================================ </b>
 <b><hr/></b>
 <h2><b> Official Account's </b></h2>
 </br><b>✦  Line Contact ✔⇩ </b>
