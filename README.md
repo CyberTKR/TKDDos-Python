@@ -18,12 +18,14 @@
 </br>
 <h1>.̌ͨ̔̄.̛̎͌͂ͬ͊ͣ͗̑̈ͮͬͤ.̏̿̉̒ͭ̾̔́͛̀̇̓̃.͢.ͪ̉̓ͯ͌͐̎̈̌̐̾̒͒ͩ̚͜.͘.̇̀ͬ.ͬ̑ͩ̅̑́͆̑̕.ͤ̄̽̓̔͗ͦ̂͋̒ͬ.ͧ̊̇ͮ̊͛͑̂͗.̷̡͝.̾̓̎̽ͣͨ̿͌͆̚.̀́.̊͂̍͆͂.̴̍̇.͐̚.̸̾͊̈̄ͤ̓̄ͬ̅ͫͭ̚.͐͟.̍̎͆̏̚.̴̡̢́͋ͨ̿.̏ͣ̉͠..͗ͦ͂̐͐́͋ͬͯ҉҉͠.҉̡͜.ͬ͌̃̓̑͐̃̚.̸.̷̀͐̆̀͡...͐̓ͮͨ̉̀́.̡̨ͩͫ͊ͫͪ̄ͪͯ̈͟.̶ͮ̓̇̎ͦͩ̊ͦ͐ͥ̂̉͢͡.͒̃̐̚͜.̡.ͫ͊ͣ̿̿͆͆̇͊̿́͞͞.ͩ͑̑͒̓̐̎̉̅̓ͧ̏..̴̡̌̋ͯ͆ͪ̓̏̌ͥ͟..͛̈ͤͫͣ͊̋̈́̽̾ͮ̈́͌.ͤ̌ͪͨ̋̀́.̆͘.͡.̆ͭ̀͐͌͋̊ͣ̅͒ͩͦͬ̏.̌͑ͪ̐ͩͭ҉͝.̑̀̅̐̓̃̕.͘͢.̎̔͌ͫ̀͛ͪ̾.̛͋̿̑͊͛̒̂̌ͥ̃̈́̂͋ͤ.̷͛͐͑.̆̅̓̐̑̍̊ͨ̎ͦ̈́͆..ͮ̋́̋̀͊̊.̷̡̛̆̏̽̎̇̌̎ͮ͋ͬ̑̐̆.̌.ͬͨͩͩ̅̄̚..ͥͩ̔̐̓ͣ́͘͢.̡̢̀ͩ̂ͯ͊́͂̅́ͥͮ̃͑ͥ.ͤ̔͒ͦͮ҉.̵̸́͋ͮ̋̋̔͝.̡̢̑̅ͭͭ̑̈ͯ̉ͤ́ͣ̅ͮ̏ͪ͟.̸̈ͤ͜͡.̅̇́̌.̷͑͋̔̽ͬ̃́͋̉̀̅.̉̎̌ͥ̆ͭ͒ͪ͞.̎ͤ̄̃̌ͭ̅̀̕͡.͋͐ͧ̒̄ͪ͗̉̈̇̂̒̅̆͋.ͬͫ͑͂̈́́̂͊̒.̋͛ͪ͒̒̉̎̾̚.̛ͩͪ̉̉̆̏̎̽.͌̈́̓ͮ̓̀̚</h1>
 </br><b>✦    Continue To Follow Cyber-TK </b>
-</br><b><h2>✦TKDDos One USE - Python 3 Python 3.5✦ </h2></b>
+</br><b><h2>✦TKDDos One USE - Python 3 Python 3.5 And Linux Windows✦ </h2></b>
 </br><b>✦    ============================================ </b>
 </br><b>✦ 033[92m	TKDDos Dos Script v.1 https://github.com/CyberTKR/TKDDos-Python </b>
 </br><b>✦ It is the end user's responsibility to obey all applicable laws. </b>
 </br><b>✦ It is just for server testing script. Your ip is visible. </b>
 </br><b>✦ usage : python3 TKDDos.py [-s] [-p] [-t] </b>
+</br><b>✦ Windows: ./TKDDosTwo.py siteurl.com Or 125.124.21.25 (İp Adres) </b>
+</br><b>✦ Linux: ./TKDDosTwo.py siteurl.com Or 125.124.21.25 (İp Adres) </b>
 </br><b>✦ TKDDos [ -h ]: help </b>
 </br><b>✦ TKDDos [ -s ]: server ip </b>
 </br><b>✦ TKDDos [ -p ]: port default 80 </b>
