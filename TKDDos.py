@@ -1,9 +1,8 @@
-#!/usr/bin/python3
+#!python3 python 3.5
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ TKDDos-Python Dos Script v.1
 # by TKDDos CyberTKR/TKDDos-Python
-# only for legal purpose
 
 
 from queue import Queue
